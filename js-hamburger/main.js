@@ -9,6 +9,6 @@ $('.fa-bars').click(function(){
 });
 
 //seleziono il font per l'icona x e decido che al click venga  nascosto l'hamburger menu
- $('.fa-times').click(function(){
+ $('.close').click(function(){
    $('.hamburger-menu').hide()
  });
